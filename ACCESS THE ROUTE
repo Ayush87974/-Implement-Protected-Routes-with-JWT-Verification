@@ -1,0 +1,2 @@
+GET /protected
+Authorization: Bearer <paste-your-token-here>
